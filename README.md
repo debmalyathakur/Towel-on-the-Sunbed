@@ -81,9 +81,9 @@ Do **not** attempt these techniques against systems that you do not own or have 
 
 Junior System Administrator | Aspiring Penetration Tester | VAPT Enthusiast
 
-GitHub: https://github.com/<your-username>
+GitHub: https://github.com/debmalyathakur
 
-LinkedIn: https://linkedin.com/in/<your-profile>
+LinkedIn: https://www.linkedin.com/in/debmalya-thakur-9b240417b
 
 ---
 
